@@ -1,4 +1,4 @@
-# Spotify SQL EDA Project
+# Spopify SQL EDA Project
 
 This project involves performing Exploratory Data Analysis (EDA) on a Spotify dataset using PostgreSQL and pgAdmin. The dataset contains various audio and streaming features for tracks, including artist information, album types, song characteristics (danceability, energy, tempo, etc.), and engagement metrics such as views, likes, comments, and streams.
 
